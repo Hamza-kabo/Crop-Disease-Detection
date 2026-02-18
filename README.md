@@ -1,41 +1,17 @@
-# Plant-Disease-Detection
+Plant Disease Detection AI
+Modified Fork
 
+📌 Project Overview
+An AI-driven image classification tool designed to detect diseases in crops from uploaded photos. I forked the original computer vision repository to enhance its functionality using LLM-assisted development.
 
+🛠 My Modifications
+LLM Integration: Utilized Large Language Models to refactor the diagnostic logic and improve the accuracy of the feedback provided to the user.
 
-### Steps to run Code
-- Clone the repository.
-```
-git clone https://github.com/noorkhokhar99/Plant-Disease-Detection.git
-```
-- Goto the cloned folder.
-```
-cd Plant-Disease-Detection
+Image Upload System: Modified the frontend/backend bridge to support seamless image uploads for real-time analysis.
 
-```
-- Upgrade pip with the mentioned command below.
-```
-pip install --upgrade pip
-```
-- Install requirements with the mentioned command below.
-```
-pip install -r requirements.txt
-```
-- Run the code with the mentioned command below.
+Dependency Optimization: Updated the environment requirements to ensure compatibility with modern Python libraries.
 
-streamlit run app.py 
- 
+🚀 Tech Stack
+Core: Python, TensorFlow/PyTorch
 
-
-
-
-### Watch the Complete Step by Step Explanation click image
-
-[![Watch the video](https://github.com/noorkhokhar99/Plant-Disease-Detection/blob/main/Pyresearch.png)](https://www.youtube.com/watch?v=jJmyfiyNv04)
-
-
-download the model from here: https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV?usp=sharing
-
-
-
-If you find my videos useful,  I would love your support on Pyresearch: https://www.youtube.com/c/Pyresearch
-
+Logic Enhancement: LLM-assisted code modification
